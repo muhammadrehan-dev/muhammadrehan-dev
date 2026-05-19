@@ -109,7 +109,7 @@ philosophy: "If it has a login page, it has a vulnerability.
 <div align="center">
 
 <!-- TryHackMe Badge -->
-<a href="https://tryhackme.com/p/Th3cut3v1ru5">
+<a href="https://tryhackme.com/p/th3cut3v1ru5">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Th3cut3v1ru5.png" alt="TryHackMe Badge" />
 </a>
 
