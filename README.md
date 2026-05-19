@@ -12,8 +12,8 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=muhammadrehan-dev&style=for-the-badge&color=6e40c9&label=STALKERS)](https://github.com/muhammadrehan-dev)
-[![GitHub followers](https://img.shields.io/github/followers=muhammadrehan-dev?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github&label=Fans)](https://github.com/muhammadrehan-dev?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/muhammadrehan-dev?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github&label=Appreciation)](https://github.com/muhammadrehan-dev?tab=stars)
+[![GitHub followers](https://img.shields.io/badge/Fans-5-6e40c9?style=for-the-badge&logo=github)](https://github.com/muhammadrehan-dev?tab=followers)
+[![GitHub Stars](https://img.shields.io/badge/Appreciation-Stars-6e40c9?style=for-the-badge&logo=github)](https://github.com/muhammadrehan-dev?tab=stars)
 
 </div>
 
