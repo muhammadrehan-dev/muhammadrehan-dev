@@ -110,12 +110,11 @@ philosophy: "If it has a login page, it has a vulnerability.
 
 <!-- TryHackMe Badge -->
 <a href="https://tryhackme.com/p/th3cut3v1ru5">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/th3cut3v1ru5.png" alt="TryHackMe Badge" />
+  <img src="https://img.shields.io/badge/TryHackMe-th3cut3v1ru5-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" height="40" alt="TryHackMe Profile" />
 </a>
 
 <br/><br/>
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-th3cut3v1ru5-6e40c9?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)
 ![HackerOne](https://img.shields.io/badge/HackerOne-Active_Hunter-6e40c9?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0d1117)
 ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Active_Hunter-6e40c9?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=0d1117)
 
