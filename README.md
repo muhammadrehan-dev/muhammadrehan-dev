@@ -196,12 +196,12 @@ philosophy: "If it has a login page, it has a vulnerability.
 ## 📊 The Numbers (Flex Section)
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadrehan-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammadrehan-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrehan-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrehan-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muhammadrehan-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </div>
 
 <!-- Activity Graph -->
@@ -249,17 +249,12 @@ philosophy: "If it has a login page, it has a vulnerability.
 <!-- 1. Push this repo to GitHub -->
 <!-- 2. Go to repo Settings > Actions > General > Set "Read and write permissions" -->
 <!-- 3. Go to Actions tab > "Generate Snake Animation" > "Run workflow" -->
-<!-- After that, uncomment the lines below and delete the placeholder: -->
 
-<!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadrehan-dev/muhammadrehan-dev/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadrehan-dev/muhammadrehan-dev/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/muhammadrehan-dev/muhammadrehan-dev/output/github-snake-dark.svg" />
   </picture>
--->
-
-  <img src="https://github.com/muhammadrehan-dev/muhammadrehan-dev/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
   <br/>
 
@@ -276,7 +271,11 @@ philosophy: "If it has a login page, it has a vulnerability.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-muhammadrehan--dev.netlify.app-6e40c9?style=for-the-badge&labelColor=0d1117)](https://muhammadrehan-dev.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-muhammadrehan--dev-6e40c9?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/muhammadrehan-dev)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-th3cut3v1ru5-6e40c9?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)](https://tryhackme.com/p/th3cut3v1ru5)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-th3cut3v1ru5-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)](https://tryhackme.com/p/th3cut3v1ru5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--rehanriaz-6e40c9?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://linkedin.com/in/muhammad-rehanriaz)
+[![Email](https://img.shields.io/badge/Email-ch4__ezio@proton.me-6e40c9?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117)](mailto:ch4_ezio@proton.me)
+
+</div>
 
 </div>
 
