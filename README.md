@@ -1,26 +1,26 @@
 <!-- 🎨 Animated Header Banner -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=CH4_EZIO&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Researcher&descSize=16&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=CH4_EZIO&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=I%20write%20code.%20I%20find%20flaws.%20Mainly%20the%20latter.&descSize=16&descAlignY=55&descAlign=50)
 
 <!-- Typing Animation -->
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Whoami%3F+CH4_EZIO;TryHackMe+Bronze%2FSilver+No.1;Vulnerability+research.;I+dont+find+bugs.+Bugs+find+me." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=550&height=70&lines=Whoami%3F+CH4_EZIO;TryHackMe+Bronze%2FSilver+No.1;I+do+not+find+bugs.+Bugs+find+me.;Rebranded+because+the+old+alias+was+too+cute." alt="Typing SVG" />
 <br/><br/>
 
 <!-- Profile Views & Social Badges -->
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=muhammadrehan-dev&style=for-the-badge&color=6e40c9&label=VIEWS)](https://github.com/muhammadrehan-dev)
-[![GitHub followers](https://img.shields.io/github/followers/muhammadrehan-dev?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github&label=Followers)](https://github.com/muhammadrehan-dev?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/muhammadrehan-dev?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github&label=Stars)](https://github.com/muhammadrehan-dev?tab=stars)
+[![Profile Views](https://komarev.com/ghpvc/?username=muhammadrehan-dev&style=for-the-badge&color=6e40c9&label=STALKERS)](https://github.com/muhammadrehan-dev)
+[![GitHub followers](https://img.shields.io/github/followers=muhammadrehan-dev?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github&label=Fans)](https://github.com/muhammadrehan-dev?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/muhammadrehan-dev?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github&label=Appreciation)](https://github.com/muhammadrehan-dev?tab=stars)
 
 </div>
 
 <!-- Disclaimer -->
 <div align="center">
 
-> **Disclaimer**: All vulnerability research projects listed here were conducted under strict authorization and responsibly disclosed.
+> **Disclaimer**: All security research was responsibly disclosed. No systems were permanently damaged during my learning process.
 
 </div>
 
@@ -33,26 +33,26 @@
 
 ```yaml
 name: Muhammad Rehan
-alias: CH4_EZIO
+alias: CH4_EZIO  # Outgrew the old "cute" phase
 role: Full-Stack Developer & Cybersecurity Researcher
-education: Cybersecurity @ DUET (25F Batch)
-location: Pakistan 🇵🇰
+education: Cybersecurity @ DUET (25F Batch) — Yes, they let me in
+location: Pakistan 🇵🇰 — Securing code between power outages
 portfolio: muhammadrehan-dev.netlify.app
 
 currently_doing:
-  - "Hunting bugs legally on HackerOne & Bugcrowd"
+  - "Hunting vulnerabilities on HackerOne and Bugcrowd"
   - "Conquering TryHackMe Platinum League"
-  - "Reverse engineering Android applications"
-  - "Building websites and securing systems"
+  - "Decompiling Android applications to find what developers missed"
+  - "Building elegant web applications by day, auditing them by night"
 
 achievements:
-  - "TryHackMe Bronze No.1"
-  - "TryHackMe Silver No.1"
-  - "TryHackMe Gold No.6"
-  - "Found auth bypass in Microsoft Authenticator (reported & acknowledged)"
-  - "Discovered IDOR and XSS in university portal (responsibly disclosed)"
+  - "TryHackMe Bronze No.1 — Too easy, barely warmed up"
+  - "TryHackMe Silver No.1 — Still waiting for a real challenge"
+  - "TryHackMe Gold No.6 — Turns out 5 people have faster internet"
+  - "Found authentication bypass in Microsoft Authenticator (valid duplicate)"
+  - "Discovered IDOR & XSS in university portal (responsibly reported, somehow not expelled)"
 
-philosophy: "Building secure, fast, and scalable digital experiences."
+fun_fact: "I build secure code. Mainly because I know how easy it is to break the insecure stuff."
 ```
 
 <br clear="both"/>
@@ -60,7 +60,7 @@ philosophy: "Building secure, fast, and scalable digital experiences."
 ---
 
 <!-- Tech Stack Section -->
-## Tech Stack & Tools
+## Weapons of Choice
 
 <div align="center">
 
@@ -117,7 +117,7 @@ philosophy: "Building secure, fast, and scalable digital experiences."
 
 <br/>
 
-### TryHackMe League Progress
+### TryHackMe League Rankings
 
 <div align="center">
 
@@ -126,7 +126,7 @@ philosophy: "Building secure, fast, and scalable digital experiences."
 | **Bronze** | **No.1** | Conquered |
 | **Silver** | **No.1** | Conquered |
 | **Gold** | **No.6** | Conquered |
-| **Platinum** | *Climbing* | Active |
+| **Platinum** | *Climbing* | Conquering |
 
 </div>
 
@@ -137,14 +137,13 @@ philosophy: "Building secure, fast, and scalable digital experiences."
 ```
 Active Security Researcher on HackerOne & Bugcrowd
 Specialized in Web Application Security & Mobile Security
-Helping secure digital systems legally and ethically
 ```
 
 </div>
 
-#### University Portal Acknowledged Findings
+#### University Portal — "Security is an Illusion"
 
-> Discovered and responsibly reported vulnerabilities in university database systems.
+> Responsibly disclosed critical vulnerabilities to my university. They patched it. I got an acknowledgment. Everyone walked away happy.
 
 | Vulnerability | Impact | Severity |
 |:---|:---|:---:|
@@ -152,21 +151,19 @@ Helping secure digital systems legally and ethically
 | **XSS** | Bypassed account authentication | `Critical` |
 | **Access Control Bypass** | OBE system unauthorized access | `High` |
 
-> Responsibly disclosed and fully patched by the university administration.
-
-#### Microsoft Authenticator Authentication Bypass
+#### Microsoft Authenticator Bypass
 
 | Target | Vulnerability | Status |
 |:---|:---|:---:|
 | **Microsoft Authenticator** | Authentication bypass | `Duplicate` |
 
-> Discovered authentication bypass in Microsoft Authenticator app (valid duplicate report).
+> Discovered a valid authentication bypass in Microsoft Authenticator. Felt like a genius for 3 minutes before the "duplicate" email arrived.
 
-#### Android Application Reverse Engineering
+#### Android APK Reverse Engineering
 
-- Decompiling APKs for security analysis
-- Static & dynamic analysis of Android applications
-- Source code analysis and vulnerability identification
+- **Decompiling APKs** — Reading production code like a bedtime story
+- **Static & Dynamic Analysis** — Hardcoded API keys are my favorite finding
+- **Obfuscation Bypass** — Proving that obfuscation is just a minor delay
 
 <div align="center">
 
