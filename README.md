@@ -115,7 +115,7 @@ philosophy: "If it has a login page, it has a vulnerability.
 
 <br/><br/>
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Th3cut3v1ru5-6e40c9?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-th3cut3v1ru5-6e40c9?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)
 ![HackerOne](https://img.shields.io/badge/HackerOne-Active_Hunter-6e40c9?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0d1117)
 ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Active_Hunter-6e40c9?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=0d1117)
 
