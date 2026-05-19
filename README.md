@@ -34,7 +34,7 @@
 
 ```yaml
 name: Muhammad Rehan
-alias: CH4_EZIO  # formerly "Th3cut3v1ru5" — outgrew the cute phase 🦋
+alias: CH4_EZIO  # formerly "Th3cut3v1ru5" — outgrew the cute phase
 role: Full-Stack Developer who accidentally became a Hacker
 education: Cybersecurity @ DUET (25F Batch) — yes, they let me in
 location: Pakistan 🇵🇰 — hacking from a place where load-shedding
