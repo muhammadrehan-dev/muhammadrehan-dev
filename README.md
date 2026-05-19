@@ -110,7 +110,7 @@ philosophy: "If it has a login page, it has a vulnerability.
 
 <!-- TryHackMe Badge -->
 <a href="https://tryhackme.com/p/th3cut3v1ru5">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Th3cut3v1ru5.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/th3cut3v1ru5.png" alt="TryHackMe Badge" />
 </a>
 
 <br/><br/>
@@ -271,7 +271,7 @@ philosophy: "If it has a login page, it has a vulnerability.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-muhammadrehan--dev.netlify.app-6e40c9?style=for-the-badge&labelColor=0d1117)](https://muhammadrehan-dev.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-muhammadrehan--dev-6e40c9?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/muhammadrehan-dev)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Th3cut3v1ru5-6e40c9?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)](https://tryhackme.com/p/Th3cut3v1ru5)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-th3cut3v1ru5-6e40c9?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)](https://tryhackme.com/p/th3cut3v1ru5)
 
 </div>
 
