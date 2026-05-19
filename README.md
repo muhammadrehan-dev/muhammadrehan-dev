@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=750&height=100&lines=Oh+you+are+a+developer%3F+Name+every+vulnerability.+%F0%9F%98%89;TryHackMe+Bronze+1+%7C+Silver+1+%7C+Gold+6+-+You+are+welcome+%F0%9F%8F%86;I+dont+find+bugs.+Bugs+find+me.+%F0%9F%90%9B;Formerly+Th3cut3v1ru5+-+Rebranded+because+I+evolved+%F0%9F%A6%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Whoami%3F+CH4_EZIO+%F0%9F%98%88;TryHackMe+Bronze%2FSilver+No.1+%F0%9F%8F%86;Breaking+things+legally.+%E2%9A%94%EF%B8%8F;I+dont+find+bugs.+Bugs+find+me.+%F0%9F%90%9B" alt="Typing SVG" />
 <br/><br/>
 
 <!-- Profile Views & Social Badges -->
