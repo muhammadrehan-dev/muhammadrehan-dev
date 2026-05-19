@@ -225,26 +225,16 @@ philosophy: "If it has a login page, it has a vulnerability.
 
 <div align="center">
 
-<a href="https://github.com/muhammadrehan-dev/portfolio">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-dev&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/muhammadrehan-dev/duet-hub">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-dev&repo=duet-hub&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/muhammadrehan-dev/Resource-Hub">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-dev&repo=Resource-Hub&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/muhammadrehan-dev/subjects">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-dev&repo=subjects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/muhammadrehan-dev/confession">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-dev&repo=confession&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/muhammadrehan-dev/duetology">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadrehan-dev&repo=duetology&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9" />
-</a>
+| 🔥 Project | 📝 Description | 🛠️ Tech |
+|:---|:---|:---:|
+| **[🌐 Portfolio](https://github.com/muhammadrehan-dev/portfolio)** | My developer portfolio — yes, even hackers need a resume | `HTML` `CSS` `Bootstrap` |
+| **[🎓 DUET Hub](https://github.com/muhammadrehan-dev/duet-hub)** | University resource platform — because students deserve nice things | `React` `JavaScript` `Vite` |
+| **[📚 Resource Hub](https://github.com/muhammadrehan-dev/Resource-Hub)** | Study materials hub — sharing is caring (and gets you stars ⭐) | `HTML` `CSS` `JS` |
+| **[📖 Subjects](https://github.com/muhammadrehan-dev/subjects)** | Study material for 25F Cybersecurity Batch — you're welcome, classmates | `Java` |
+| **[💌 Confession](https://github.com/muhammadrehan-dev/confession)** | Anonymous confession app — everyone has secrets 🤫 | `JavaScript` |
+| **[🎨 Duetology](https://github.com/muhammadrehan-dev/duetology)** | Another uni project that turned out surprisingly good | `HTML` `CSS` |
+| **[🤖 TGBOT](https://github.com/muhammadrehan-dev/TGBOT)** | Telegram bot — because automation is self-care | `Node.js` |
+| **[🍕 Italian Food](https://github.com/muhammadrehan-dev/Italian-Food)** | Italian food website — hacking makes you hungry | `HTML` `CSS` |
 
 </div>
 
