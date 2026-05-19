@@ -1,19 +1,27 @@
 <!-- 🎨 Animated Header Banner -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Muhammad%20Rehan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Cybersecurity%20Researcher&descSize=16&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=CH4_EZIO&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Yeah%2C%20I%20build%20stuff.%20I%20also%20break%20stuff.%20Mostly%20break%20stuff.&descSize=16&descAlignY=55&descAlign=50)
 
 <!-- Typing Animation -->
-<a href="https://muhammadrehan-dev.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Full-Stack+Developer+%26+Bug+Bounty+Hunter+%F0%9F%94%90;TryHackMe+Bronze+%231+%7C+Silver+%231+%7C+Gold+%236+%F0%9F%8F%86;Breaking+Things+To+Make+Them+Safer+%F0%9F%9B%A1%EF%B8%8F;WordPress+%7C+React+%7C+Flutter+%7C+Pentesting+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://muhammadrehan-dev.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%22Oh+you're+a+developer%3F+Name+every+vulnerability.%22+%F0%9F%98%8F;TryHackMe+Bronze+%231+%7C+Silver+%231+%7C+Gold+%236+%E2%80%94+You're+welcome+%F0%9F%8F%86;I+don't+find+bugs.+Bugs+find+me.+%F0%9F%90%9B;Formerly+Th3cut3v1ru5+%E2%80%94+Rebranded+because+I+evolved+%F0%9F%A6%8B" alt="Typing SVG" />
 </a>
 
 <!-- Profile Views & Social Badges -->
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=muhammadrehan-dev&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)](https://github.com/muhammadrehan-dev)
-[![GitHub followers](https://img.shields.io/github/followers/muhammadrehan-dev?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github)](https://github.com/muhammadrehan-dev?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/muhammadrehan-dev?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github)](https://github.com/muhammadrehan-dev?tab=stars)
+[![Profile Views](https://komarev.com/ghpvc/?username=muhammadrehan-dev&style=for-the-badge&color=6e40c9&label=STALKERS)](https://github.com/muhammadrehan-dev)
+[![GitHub followers](https://img.shields.io/github/followers/muhammadrehan-dev?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github&label=Fans)](https://github.com/muhammadrehan-dev?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/muhammadrehan-dev?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github&label=Appreciation)](https://github.com/muhammadrehan-dev?tab=stars)
+
+</div>
+
+<!-- ⚠️ Disclaimer -->
+<div align="center">
+
+> ⚠️ **Disclaimer**: No systems were harmed in the making of this profile. <br/>
+> ...Okay, maybe a few. But I reported them. _You're welcome._
 
 </div>
 
@@ -22,29 +30,34 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 `whoami`
 
 ```yaml
 name: Muhammad Rehan
-alias: CH4_EZIO
-role: Full-Stack Developer & Bug Bounty Hunter
-education: Cybersecurity @ DUET (25F Batch)
-location: Pakistan 🇵🇰
+alias: CH4_EZIO  # formerly "Th3cut3v1ru5" — outgrew the cute phase 🦋
+role: Full-Stack Developer who accidentally became a Hacker
+education: Cybersecurity @ DUET (25F Batch) — yes, they let me in
+location: Pakistan 🇵🇰 — hacking from a place where load-shedding
+          is the real vulnerability
 portfolio: muhammadrehan-dev.netlify.app
 
 currently_doing:
-  - "🐛 Hunting bugs on HackerOne & Bugcrowd"
-  - "⚔️ Conquering TryHackMe Platinum League"
-  - "📱 Reverse engineering Android APKs"
-  - "🌐 Building web apps & mobile apps"
+  - "🐛 Getting paid to break things (legally) on HackerOne & Bugcrowd"
+  - "⚔️ Conquering TryHackMe Platinum — because Gold wasn't shiny enough"
+  - "📱 Reverse engineering your favorite apps (for science)"
+  - "🌐 Building websites by day, breaking them by night"
 
 achievements:
-  - "🥇 TryHackMe Bronze #1 & Silver #1"
-  - "🏅 TryHackMe Gold #6"
-  - "🔐 Found auth bypass in Microsoft Authenticator"
-  - "🏛️ Discovered IDOR, XSS & access control flaws in uni portal"
+  - "🥇 TryHackMe Bronze #1 — too easy, didn't even warm up"
+  - "🥇 TryHackMe Silver #1 — still yawning"
+  - "🏅 TryHackMe Gold #6 — okay fine, 5 people were faster"
+  - "🔐 Found auth bypass in Microsoft Authenticator — Microsoft said
+    'thanks, someone beat you to it' 💀"
+  - "🏛️ Hacked my own university portal — they thanked me instead
+    of expelling me 🤷"
 
-fun_fact: "I break things before breakfast and build them after lunch 😄"
+philosophy: "If it has a login page, it has a vulnerability.
+             You just haven't found it yet."
 ```
 
 <br clear="both"/>
@@ -52,37 +65,38 @@ fun_fact: "I break things before breakfast and build them after lunch 😄"
 ---
 
 <!-- 🛠️ Tech Stack Section -->
-## 🛠️ Tech Stack & Tools
+## 🛠️ Weapons of Choice
 
 <div align="center">
 
-### 🌐 Frontend
+### 🌐 The "I Make Pretty Things" Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 📱 Mobile
+### 📱 The "I Make Pretty Things Mobile" Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### ⚙️ Backend & CMS
+### ⚙️ The Backend Nobody Sees But Everyone Needs
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🔧 Tools & Platforms
+### 🔧 Tools That Keep Me Sane (Barely)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🛡️ Cybersecurity
+### 💀 The "I Break Pretty Things" Stack
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
@@ -90,85 +104,97 @@ fun_fact: "I break things before breakfast and build them after lunch 😄"
 ---
 
 <!-- 🛡️ Cybersecurity Section -->
-## 🛡️ Cybersecurity — Hacker Profile
+## 🛡️ Hacker Arc — The Villain Origin Story
 
 <div align="center">
 
 <!-- TryHackMe Badge -->
-<a href="https://tryhackme.com/p/Thcut3v1ru5">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Thcut3v1ru5.png" alt="TryHackMe Badge" />
+<a href="https://tryhackme.com/p/Th3cut3v1ru5">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Th3cut3v1ru5.png" alt="TryHackMe Badge" />
 </a>
 
 <br/><br/>
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Th%23cut3v1ru5-6e40c9?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)
-![HackerOne](https://img.shields.io/badge/HackerOne-Bug_Bounty_Hunter-6e40c9?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0d1117)
-![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Bug_Bounty_Hunter-6e40c9?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=0d1117)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Th3cut3v1ru5-6e40c9?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)
+![HackerOne](https://img.shields.io/badge/HackerOne-Active_Hunter-6e40c9?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=0d1117)
+![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Active_Hunter-6e40c9?style=for-the-badge&logo=bugcrowd&logoColor=white&labelColor=0d1117)
 
 </div>
 
 <br/>
 
-### 🏆 TryHackMe League Rankings
+### 🏆 TryHackMe — Speedrunning Leagues for Fun
 
 <div align="center">
 
-| 🏆 League | 🏅 Rank | Status |
+| 🏆 League | 🏅 Rank | Vibe |
 |:---:|:---:|:---:|
-| 🥉 **Bronze** | **#1** 🥇 | ✅ Conquered |
-| 🥈 **Silver** | **#1** 🥇 | ✅ Conquered |
-| 🥇 **Gold** | **#6** 🏅 | ✅ Conquered |
-| 💎 **Platinum** | 🔥 *Climbing* | ⚔️ Conquering |
+| 🥉 **Bronze** | **#1** 🥇 | _"Tutorial complete."_ |
+| 🥈 **Silver** | **#1** 🥇 | _"Is this supposed to be hard?"_ |
+| 🥇 **Gold** | **#6** 🏅 | _"Alright, 5 people have my respect."_ |
+| 💎 **Platinum** | 🔥 *Climbing* | _"Loading final form..."_ ⚔️ |
 
 </div>
 
-### 🐛 Bug Bounty & Vulnerability Research
+### 🐛 Bug Bounty — Getting Paid to Be Paranoid
 
 <div align="center">
 
 ```
 🔍 Active Bug Bounty Hunter on HackerOne & Bugcrowd
-🎯 Specialized in Web Application Security & Mobile Security
+🎯 I don't test websites. I interrogate them.
+💰 Yes, companies pay me to find what their devs missed.
+   No, I will not hack your ex's Instagram.
 ```
 
 </div>
 
-#### 🏛️ University Portal Vulnerabilities *(Acknowledged & Reported)*
-| Vulnerability | Impact | Type |
+#### 🏛️ University Portal — "You Left the Door Open, Sir"
+
+> _Turns out my own university's portal had more holes than Swiss cheese.
+> I told them. They acknowledged me. Nobody got expelled. Everybody won._ 🎉
+
+| Vulnerability | What Happened | Severity |
 |:---|:---|:---:|
-| 🔓 **IDOR** — Accessed restricted academic material | Unauthorized data access | `High` |
-| 💉 **XSS** — Bypassed account authentication | Account takeover | `Critical` |
-| 🚫 **Access Control Bypass** — OBE system unauthorized access | Privilege escalation | `High` |
+| 🔓 **IDOR** | Accessed restricted material that was "restricted" in quotes | `High` |
+| 💉 **XSS** | Bypassed authentication — because who needs passwords, right? | `Critical` |
+| 🚫 **Access Control Bypass** | Walked into OBE system like I owned the place | `High` |
 
-> ✅ *All vulnerabilities responsibly disclosed to the university and acknowledged*
+> ✅ *Responsibly disclosed. Acknowledged by the university. Still enrolled. Somehow.* 😇
 
-#### 🏢 Corporate Findings
+#### 🏢 Microsoft — "So Close, Yet So Duplicate"
+
 | Target | Vulnerability | Status |
 |:---|:---|:---:|
-| 🔐 **Microsoft Authenticator** | Authentication bypass | `Duplicate` *(Valid finding, already reported)* |
+| 🔐 **Microsoft Authenticator** | Authentication bypass | `Duplicate` |
 
-#### 📱 Mobile Security
-- 🔧 **Android APK Reverse Engineering** — Decompiling, analyzing, and finding vulnerabilities in mobile applications
-- 🛡️ Static & dynamic analysis of Android applications
-- 🔍 API endpoint discovery through reverse engineering
+> _Found a legit auth bypass in Microsoft Authenticator. Felt like a god for 3 minutes.
+> Then got the "duplicate" email. Someone was 2 weeks faster. Pain._ 💀
+
+#### 📱 Android Reverse Engineering — "Your APK Told Me Everything"
+
+- 🔧 Decompiling APKs like they're bedtime stories
+- 🛡️ Static & dynamic analysis — because source code is just a suggestion
+- 🔍 Finding hardcoded API keys that devs swore they removed
+- 🗝️ _"Your obfuscation was cute. I still read it."_
 
 <div align="center">
 
 <br/>
 
 ![OWASP](https://img.shields.io/badge/OWASP-Top_10-6e40c9?style=for-the-badge&logo=owasp&logoColor=white&labelColor=0d1117)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-Pro-6e40c9?style=for-the-badge&logo=portswigger&logoColor=white&labelColor=0d1117)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Expert-6e40c9?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117)
-![Android](https://img.shields.io/badge/APK_Reverse_Engineering-Active-6e40c9?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-My_Best_Friend-6e40c9?style=for-the-badge&logo=portswigger&logoColor=white&labelColor=0d1117)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Daily_Driver-6e40c9?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117)
+![Reverse Engineering](https://img.shields.io/badge/APK_RE-Your_App_Has_No_Secrets-6e40c9?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)
 
-> 🎯 _"From Bronze #1 to Platinum — breaking things to make them safer."_
+> _"I don't break into systems. I knock politely, and the door was already open."_ 🚪
 
 </div>
 
 ---
 
 <!-- 📊 GitHub Stats Section -->
-## 📊 GitHub Stats
+## 📊 The Numbers (Flex Section)
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadrehan-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
@@ -187,7 +213,7 @@ fun_fact: "I break things before breakfast and build them after lunch 😄"
 ---
 
 <!-- 🏆 Trophies Section -->
-## 🏆 GitHub Trophies
+## 🏆 Shiny Things I Collected
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammadrehan-dev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
@@ -196,7 +222,7 @@ fun_fact: "I break things before breakfast and build them after lunch 😄"
 ---
 
 <!-- 🚀 Featured Projects Section -->
-## 🚀 Featured Projects
+## 🚀 Things I Built (Instead of Breaking)
 
 <div align="center">
 
@@ -226,7 +252,7 @@ fun_fact: "I break things before breakfast and build them after lunch 😄"
 ---
 
 <!-- 🐍 Contribution Snake -->
-## 🐍 Contribution Graph
+## 🐍 Watch My Contributions Eat Themselves
 
 <div align="center">
   <picture>
@@ -239,26 +265,31 @@ fun_fact: "I break things before breakfast and build them after lunch 😄"
 ---
 
 <!-- 🤝 Connect Section -->
-## 🤝 Let's Connect
+## 🤝 Wanna Talk? (I Don't Bite... Digitally)
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-muhammadrehan--dev.netlify.app-6e40c9?style=for-the-badge&labelColor=0d1117)](https://muhammadrehan-dev.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-muhammadrehan--dev-6e40c9?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/muhammadrehan-dev)
-
-</div>
-
-<div align="center">
-
-### 💡 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Th3cut3v1ru5-6e40c9?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)](https://tryhackme.com/p/Th3cut3v1ru5)
 
 </div>
 
 ---
 
-<!-- 📈 Metrics -->
+<!-- 💀 The Fine Print -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadrehan-dev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9" alt="Wakatime Stats" />
+
+### 💀 The Fine Print
+
+```
+⚠️  I'm a white-hat. Everything I do is ethical, legal, and reported.
+🎓  Cybersecurity student by day, bug bounty hunter by night.
+🔐  If you're reading this and your app has vulnerabilities...
+    ...I'll find them before someone else does. You're welcome.
+💡  Previously known as "Th3cut3v1ru5" — I was cute. Now I'm dangerous. 😈
+```
+
 </div>
 
 <!-- Footer Wave -->
@@ -271,6 +302,10 @@ fun_fact: "I break things before breakfast and build them after lunch 😄"
 
   <br/><br/>
 
-  ⭐ **If you find my work helpful, consider giving a star!** ⭐
+  ⭐ **Star my repos or I'll audit your website.** ⭐
+
+  <br/>
+
+  _"I used to be Th3cut3v1ru5. Then I took a CVE to the knee."_ — **CH4_EZIO**, probably
 
 </div>
