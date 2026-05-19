@@ -3,6 +3,10 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=CH4_EZIO&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Yeah%2C%20I%20build%20stuff.%20I%20also%20break%20stuff.%20Mostly%20break%20stuff.&descSize=16&descAlignY=55&descAlign=50)
 
+<!-- Typing Animation -->
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%22Oh+you're+a+developer%3F+Name+every+vulnerability.%22+%F0%9F%98%8F;TryHackMe+Bronze+%231+%7C+Silver+%231+%7C+Gold+%236+%E2%80%94+You're+welcome+%F0%9F%8F%86;I+don't+find+bugs.+Bugs+find+me.+%F0%9F%90%9B;Formerly+Th3cut3v1ru5+%E2%80%94+Rebranded+because+I+evolved+%F0%9F%A6%8B" alt="Typing SVG" />
+<br/><br/>
 
 <!-- Profile Views & Social Badges -->
 <br/>
