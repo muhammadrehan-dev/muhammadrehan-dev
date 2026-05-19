@@ -244,11 +244,27 @@ philosophy: "If it has a login page, it has a vulnerability.
 ## 🐍 Watch My Contributions Eat Themselves
 
 <div align="center">
+
+<!-- 🐍 To enable the snake animation: -->
+<!-- 1. Push this repo to GitHub -->
+<!-- 2. Go to repo Settings > Actions > General > Set "Read and write permissions" -->
+<!-- 3. Go to Actions tab > "Generate Snake Animation" > "Run workflow" -->
+<!-- After that, uncomment the lines below and delete the placeholder: -->
+
+<!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadrehan-dev/muhammadrehan-dev/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadrehan-dev/muhammadrehan-dev/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/muhammadrehan-dev/muhammadrehan-dev/output/github-snake-dark.svg" />
   </picture>
+-->
+
+  <img src="https://github.com/muhammadrehan-dev/muhammadrehan-dev/blob/output/github-snake-dark.svg" alt="Snake animation" />
+
+  <br/>
+
+  > _🐍 If the snake isn't moving yet — go to your repo's **Actions** tab and run the **"Generate Snake Animation"** workflow manually._
+
 </div>
 
 ---
